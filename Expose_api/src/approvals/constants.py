@@ -1,7 +1,7 @@
 INFURA_BASE_URL = "https://mainnet.infura.io/v3/"
 TOKEN_PRICE_BASE_URL = "https://api.coingecko.com/api/v3/simple/token_price/ethereum"
 MAX_UINT_256 = 2**256 - 1
-MAX_CONCURRENT_PROCESSES = 3
+MAX_CONCURRENT_PROCESSES = 10
 USD_CURRENCY_CODE = 'usd'
 
 REQUIRED_EVENTS_ABI = [{
